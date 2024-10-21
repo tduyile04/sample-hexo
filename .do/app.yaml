@@ -1,0 +1,8 @@
+name: sample-hexo
+static_sites:
+- environment_slug: hexo
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: digitalocean/sample-hexo
+  name: sample-hexo

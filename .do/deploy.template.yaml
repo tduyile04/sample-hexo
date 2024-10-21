@@ -1,0 +1,8 @@
+spec:
+  name: sample-hexo
+  static_sites:
+  - environment_slug: hexo
+    git:
+      branch: main
+      repo_clone_url: https://github.com/digitalocean/sample-hexo.git
+    name: sample-hexo
